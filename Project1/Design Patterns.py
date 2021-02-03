@@ -52,6 +52,7 @@ class Subject():
         
         self.notify()
 
+
 s = Subject()
 
 obj1 = Observer()
